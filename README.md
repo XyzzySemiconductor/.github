@@ -1,2 +1,3 @@
-# .github
-organizational profile placeholder
+# Xyzzy Semiconductor
+Device information Repo
+
