@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I develop semiconductors for my interests. After sucessful manufacture and validation there may be limited extra chips available. I offer those to engineering hobbyist for those of similar technical interests and requirements. This is the support organization for those devices. The original free and open source silicon design repo is forked here. The repo's README.md will link the data sheet along with release notes, and test reports for serialized devices. Reference designs, methodologies, tests and approach will be provided in the repo. 
+
 <!--
 
 **Here are some ideas to get you started:**
