@@ -1,7 +1,10 @@
-## Hi there 👋
+#### Xyzzy Semiconductor designs small, purpose‑built ASICs for engineers who value reliability over complexity.
 
-I develop semiconductors for my interests. After sucessful manufacture and validation there may be limited extra chips available. Those are offered, at cost, to engineering hobbyist of similar technical interests and requirements. This is the support organization github for those devices. The original free and open source silicon design repo is forked here. The repo's README.md will link the data sheet along with release notes, and test reports for serialized devices. Reference designs, methodologies, tests and approach will be provided in the repo. 
+Each chip is crafted with a minimalist philosophy: pure logic, no hidden state, and behavior you can trust cycle‑to‑cycle. After successful manufacture and validation, a limited number of devices are made available at cost to fellow hobbyists with similar technical interests.
 
+Every design is fully open source, with the original silicon repository forked here for long‑term support and documentation . Each project includes a clean, readable datasheet, release notes, reference tests, and methodologies to help you understand exactly how the device works and how to integrate it into your own systems.
+
+Xyzzy chips are intentionally small — typically around 1 k gates — but engineered with the same discipline as commercial semiconductors: deterministic behavior, robust interfaces, and clear application guidance. These are not novelty chips; they are dependable building blocks for real engineering experiments.
 <!--
 
 **Here are some ideas to get you started:**
