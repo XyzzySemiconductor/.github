@@ -8,9 +8,7 @@ A mythical fabless semiconductor company support page. Organized as chip device 
 - 01 - 130 µm Tiny Tapeout (sky26c tapeout ready) 
 [(datasheet)](https://github.com/XyzzySemiconductor/XS-LPC-01/blob/main/docs/LPC_Datasheet.pdf)
 [(repo)](https://github.com/XyzzySemiconductor/XS-LPC-01)
-- 02 - Forge, 3×3 mm STQFN‑24 (in bring-up/validation)
-[(datasheet)](https://github.com/XyzzySemiconductor/XS-LPC-02/blob/main/docs/LPC_Datasheet.pdf)
-[(repo)](https://github.com/XyzzySemiconductor/XS-LPC-02)
+- 02 - Forge, 3×3 mm STQFN‑24 (pending validation)
 
 #### GPC — Grid Power Controller - Run grid‑tied solar during power outages.  
 - 01 - 180 µm Tiny Tapeout (gf26b in‑fab)
@@ -22,7 +20,7 @@ A mythical fabless semiconductor company support page. Organized as chip device 
 [(datasheet)](https://github.com/XyzzySemiconductor/XS-LCC-01/blob/main/Launch_chip_arch.pdf) 
 [(repo)](https://github.com/XyzzySemiconductor/XS-LCC-01)
 - 02 - 130 µm Tiny Tapeout + BIST (sky26b in‑fab)
-[(datasheet)](https://github.com/XyzzySemiconductor/XS-LCC-02/blob/main/Launch_chip_arch.pdf)
+[(datasheet)](https://github.com/XyzzySemiconductor/XS-LCC-01/blob/main/Launch_chip_arch.pdf)
 [(repo)](https://github.com/XyzzySemiconductor/XS-LCC-02)
 
 #### LDT — Launch Deployment Timer - Model rocket parachute deployment timer.  
