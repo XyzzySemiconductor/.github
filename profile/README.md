@@ -33,3 +33,7 @@ A mythical fabless semiconductor company support page. Organized as chip device 
 [(repo)](https://github.com/XyzzySemiconductor/XS-LDT-01)
 - 02 - Forge, 3x3 STQFN (validation)
 [(mailer)](ldt_packing%20card.svg)
+
+#### RPD - Relative Phase Detector - 60Hz  line relative phase measurement chip (sneak peek)
+
+#### BDC - Barometric Deployment Controller - Model rocket dual deployment control chip (soon)
