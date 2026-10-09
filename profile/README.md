@@ -31,7 +31,7 @@ A mythical fabless semiconductor company support page. Organized as chip device 
 - 01 - 130um Tiny Tapeout (ihp26b 1x1 taped-out)
 [(datasheet)](https://github.com/XyzzySemiconductor/XS-LDT-01/blob/main/docs/XS-LDT-01_Datasheet.pdf)
 [(repo)](https://github.com/XyzzySemiconductor/XS-LDT-01)
-- 02 - Forge, 3x3 STQFN (validation)
+- 02 - Forge, 3x3 STQFN (released, -40c/85c)
 [(mailer)](ldt_packing%20card.svg)
 
 #### BDC - Barometric Deployment Controller - Model rocket dual deployment control chip (coming soon)
