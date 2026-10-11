@@ -33,5 +33,6 @@ A mythical fabless semiconductor company support page. Organized as chip device 
 [(repo)](https://github.com/XyzzySemiconductor/XS-LDT-01)
 - 02 - Forge, 3x3 STQFN (released, -40c/85c)
 [(mailer)](ldt_packing%20card.svg)
+[(repo)](https://github.com/XyzzySemiconductor/XS-LDT-01)
 
 #### BDC - Barometric Deployment Controller - Model rocket dual deployment control chip (coming soon)
