@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="6in"
    height="4in"
    viewBox="0 0 432.00001 288"
@@ -18,7 +9,16 @@
    version="1.1"
    id="svg127"
    sodipodi:docname="ldt_packing card.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"><text
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:105.918;display:inline;fill:#000000;stroke-width:0.264583"
    x="41.588665"
@@ -26,78 +26,44 @@
    id="text1-5-5-5-8"
    transform="matrix(2.8346457,0,0,2.8346457,53.328325,-12.550574)"><tspan
      x="41.588665"
-     y="20.654873"><tspan>Excessively smart, precisely small
-</tspan></tspan></text><text
+     y="20.654873"
+     id="tspan8">Excessively smart, precisely small
+</tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.749999"
-   x="113.26125"
-   y="72.562637"
+   x="110.55253"
+   y="65.913948"
    id="text1-5-1"><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="113.26125"
-     y="72.562637"
+     x="110.55253"
+     y="65.913948"
      id="tspan718-3" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="113.26125"
-     y="87.562637"
-     id="tspan727-4">Serial#  ___________ </tspan><tspan
+     x="110.55253"
+     y="80.913948"
+     id="tspan727-4">Commit:  ___________ </tspan><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="113.26125"
-     y="102.56264"
+     x="110.55253"
+     y="95.913948"
      id="tspan9-2" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="113.26125"
-     y="117.56264"
+     x="110.55253"
+     y="110.91395"
      id="tspan733-7" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="113.26125"
-     y="132.56264"
+     x="110.55253"
+     y="125.91395"
      id="tspan715-7" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="113.26125"
-     y="147.56264"
-     id="tspan6-9" /></text><text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.749999"
-   x="112.54121"
-   y="88.816803"
-   id="text1-5-1-1"><tspan
-     sodipodi:role="line"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="112.54121"
-     y="88.816803"
-     id="tspan19-2" /><tspan
-     sodipodi:role="line"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="112.54121"
-     y="103.8168"
-     id="tspan727-4-3">Tested:  ___________</tspan><tspan
-     sodipodi:role="line"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="112.54121"
-     y="118.8168"
-     id="tspan9-2-3" /><tspan
-     sodipodi:role="line"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="112.54121"
-     y="133.8168"
-     id="tspan733-7-9" /><tspan
-     sodipodi:role="line"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="112.54121"
-     y="148.8168"
-     id="tspan715-7-7" /><tspan
-     sodipodi:role="line"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="112.54121"
-     y="163.8168"
-     id="tspan6-9-2" /></text><rect
+     x="110.55253"
+     y="140.91394"
+     id="tspan6-9" /></text><rect
    style="fill:#000000;stroke-width:0.354217"
    id="rect724-6-6"
    width="8.5039368"
@@ -208,14 +174,94 @@
        id="1/10th cm. Tick no. 9-7-2" /></g></g><text
    xml:space="preserve"
    style="font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';writing-mode:lr-tb;direction:ltr;fill:none;fill-rule:evenodd;stroke-width:1.00063"
-   x="196.68889"
-   y="107.06099"
+   x="195.21141"
+   y="105.82975"
    id="text20"><tspan
      sodipodi:role="line"
      id="tspan20"
      style="stroke-width:1.00063"
-     x="196.68889"
-     y="107.06099">`</tspan></text><text
+     x="195.21141"
+     y="105.82975">`</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.749999"
+   x="110.58484"
+   y="81.305016"
+   id="text1-5-1-2"><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
+     x="110.58484"
+     y="81.305016"
+     id="tspan718-3-4" /><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
+     x="110.58484"
+     y="96.305016"
+     id="tspan727-4-5">Config:  ___________ </tspan><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
+     x="110.58484"
+     y="111.30502"
+     id="tspan9-2-5" /><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
+     x="110.58484"
+     y="126.30502"
+     id="tspan733-7-1" /><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
+     x="110.58484"
+     y="141.30502"
+     id="tspan715-7-71" /><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
+     x="110.58484"
+     y="156.30502"
+     id="tspan6-9-1" /></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.749999"
+   x="109.12605"
+   y="97.066681"
+   id="text1-5-1-1-5"><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
+     x="109.12605"
+     y="97.066681"
+     id="tspan19-2-2" /><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
+     x="109.12605"
+     y="112.06668"
+     id="tspan727-4-3-7">Tested:  ___________</tspan><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
+     x="109.12605"
+     y="127.06668"
+     id="tspan9-2-3-6" /><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
+     x="109.12605"
+     y="142.06668"
+     id="tspan733-7-9-1" /><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
+     x="109.12605"
+     y="157.06668"
+     id="tspan715-7-7-4" /><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
+     x="109.12605"
+     y="172.06668"
+     id="tspan6-9-2-2" /></text><text
+   xml:space="preserve"
+   style="font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';writing-mode:lr-tb;direction:ltr;fill:none;fill-rule:evenodd;stroke-width:1.00063"
+   x="188.34879"
+   y="118.01958"
+   id="text20-3"><tspan
+     sodipodi:role="line"
+     id="tspan20-2"
+     style="stroke-width:1.00063"
+     x="188.34879"
+     y="118.01958">`</tspan></text><text
    xml:space="preserve"
    style="font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';writing-mode:lr-tb;direction:ltr;fill:none;fill-rule:evenodd;stroke-width:1.00063"
    x="383.15948"
@@ -4559,7 +4605,7 @@
    y="33.763809"
    id="text1"><tspan
      sodipodi:role="line"
-     id="tspan1"
+     id="tspan3"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
      x="99.698433"
      y="33.763809">Xyzzy Semiconductor</tspan></text><text
@@ -4570,8 +4616,9 @@
    id="text1-5-2"
    transform="matrix(2.8346457,0,0,2.8346457,43.918315,-71.305394)"><tspan
      x="105.4211"
-     y="62.209427"><tspan>Datasheet info
-</tspan></tspan></text><text
+     y="62.209427"
+     id="tspan9">Datasheet info
+</tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:206.753;display:inline;fill:#000000;stroke-width:0.265;stroke-dasharray:none;image-rendering:optimizeQuality"
    x="23.318129"
@@ -4579,8 +4626,9 @@
    id="text1-5-5-6-6"
    transform="matrix(2.8346457,0,0,2.8346457,-26.861125,-19.950921)"><tspan
      x="23.318129"
-     y="103.8717"><tspan>For hobbyist use only. Follow local rules, safe handling and ESD precautions.
-</tspan></tspan></text><metadata
+     y="103.8717"
+     id="tspan10">For hobbyist use only. Follow ESD safe handling and precautions.
+</tspan></text><metadata
    id="metadata1653"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
@@ -4593,13 +4641,13 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="in"
-   inkscape:zoom="2.1536459"
-   inkscape:cx="300.98519"
-   inkscape:cy="228.55414"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
-   inkscape:window-x="6392"
-   inkscape:window-y="500"
+   inkscape:zoom="3.0457152"
+   inkscape:cx="278.75226"
+   inkscape:cy="203.89299"
+   inkscape:window-width="3291"
+   inkscape:window-height="1745"
+   inkscape:window-x="3829"
+   inkscape:window-y="1184"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg127"
    inkscape:document-rotation="0"
@@ -4640,6 +4688,11 @@
 
 	<defs
    id="Markers"><rect
+   x="137.57031"
+   y="97.185711"
+   width="179.59657"
+   height="55.487788"
+   id="rect32" /><rect
    x="213.47541"
    y="406.32787"
    width="200.09836"
@@ -5670,13 +5723,19 @@
    width="6"
    height="6"
    x="0"
-   y="0" /></defs>
+   y="0" /><clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath8"><use
+     x="0"
+     y="0"
+     xlink:href="#g7"
+     id="use30" /></clipPath></defs>
 	
 <text
    xml:space="preserve"
    transform="scale(0.75)"
    id="text128"
-   style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect714);fill:none;fill-rule:evenodd;stroke-width:1.33417;" /><text
+   style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect714);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
    xml:space="preserve"
    style="font-size:9px;writing-mode:lr-tb;direction:ltr;fill:none;fill-rule:evenodd;stroke-width:1.00063"
    x="560.58197"
@@ -5690,7 +5749,7 @@
    xml:space="preserve"
    transform="scale(0.75000001)"
    id="text3"
-   style="fill:none;text-orientation:auto;fill-rule:evenodd;stroke-width:1.33417323;writing-mode:lr-tb;direction:ltr;-inkscape-font-specification:'Yu Gothic, Normal';font-family:'Yu Gothic';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect3);" /><g
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><g
    v:mID="0"
    v:index="1"
    v:groupContext="foregroundPage"
@@ -5723,38 +5782,7 @@
 		<v:layer
    v:name="Electrical"
    v:index="3" />
-		<g
-   id="shape159-1"
-   v:mID="159"
-   v:groupContext="shape"
-   transform="rotate(90,532.39068,597.10981)">
-			<title
-   id="title2">Sheet.159</title>
-			<desc
-   id="desc2">/Launch</desc>
-			<v:textBlock
-   v:margins="rect(4,4,4,4)" />
-			<v:textRect
-   cx="35"
-   cy="602.719"
-   width="70.01"
-   height="18.5625" />
-			<rect
-   x="0"
-   y="593.43799"
-   width="70"
-   height="18.5625"
-   class="st1"
-   id="rect2"
-   style="fill:none;stroke:none;stroke-width:0.5" />
-			<text
-   x="26.58"
-   y="606.32001"
-   class="st2"
-   v:langID="4105"
-   id="text2"
-   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />nc</text>		</g>
+		
 		<g
    id="shape160-4"
    v:mID="160"
@@ -5821,7 +5849,7 @@
    id="shape162-10"
    v:mID="162"
    v:groupContext="shape"
-   transform="translate(397.18271,-455.05239)">
+   transform="translate(395.51113,-401.2831)">
 			<title
    id="title5-1">Sheet.162</title>
 			<desc
@@ -5853,7 +5881,7 @@
    id="shape163-13"
    v:mID="163"
    v:groupContext="shape"
-   transform="translate(455.16143,-418.03726)">
+   transform="rotate(90,461.29124,685.9159)">
 			<title
    id="title6-1">Sheet.163</title>
 			<desc
@@ -5885,7 +5913,7 @@
    id="shape164-16"
    v:mID="164"
    v:groupContext="shape"
-   transform="rotate(90,441,688.5)">
+   transform="rotate(90,526.11148,603.94571)">
 			<title
    id="title7-2">Sheet.164</title>
 			<desc
@@ -5916,7 +5944,7 @@
    id="shape165-19"
    v:mID="165"
    v:groupContext="shape"
-   transform="rotate(90,476.72,724.22)">
+   transform="rotate(90,478.39159,723.6628)">
 			<title
    id="title8-4">Sheet.165</title>
 			<desc
@@ -5947,7 +5975,7 @@
    id="shape166-22"
    v:mID="166"
    v:groupContext="shape"
-   transform="rotate(90,450.28,697.78)">
+   transform="translate(475.2375,-418.8427)">
 			<title
    id="title9">Sheet.166</title>
 			<desc
@@ -5974,43 +6002,12 @@
    v:langID="4105"
    id="text9"
    style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Sw4</text>		</g>
-		<g
-   id="shape167-25"
-   v:mID="167"
-   v:groupContext="shape"
-   transform="rotate(90,536.45064,611.46164)">
-			<title
-   id="title10-1">Sheet.167</title>
-			<desc
-   id="desc10-4">Continuity</desc>
-			<v:textBlock
-   v:margins="rect(4,4,4,4)" />
-			<v:textRect
-   cx="35"
-   cy="602.719"
-   width="70.01"
-   height="18.5625" />
-			<rect
-   x="0"
-   y="593.43799"
-   width="70"
-   height="18.5625"
-   class="st1"
-   id="rect10-1"
-   style="fill:none;stroke:none;stroke-width:0.5" />
-			<text
-   x="15.38"
-   y="606.32001"
-   class="st2"
-   v:langID="4105"
-   id="text10-2"
-   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />nc</text>		</g>
+		
 		<g
    id="shape168-28"
    v:mID="168"
    v:groupContext="shape"
-   transform="translate(416.16977,-473.61439)">
+   transform="translate(415.61257,-381.67727)">
 			<title
    id="title11-6">Sheet.168</title>
 			<desc
@@ -6042,7 +6039,7 @@
    id="shape169-31"
    v:mID="169"
    v:groupContext="shape"
-   transform="rotate(90,585.53369,616.24771)">
+   transform="translate(421.26783,-434.88608)">
 			<title
    id="title12-0">Sheet.169</title>
 			<desc
@@ -6069,12 +6066,26 @@
    v:langID="4105"
    id="text12-1"
    style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />Speaker</text>		</g>
+   v:horizAlign="2" /><v:tabList />Speaker+</text><text
+   x="33.002598"
+   y="586.94513"
+   class="st2"
+   v:langID="4105"
+   id="text12-1-9"
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
+   v:horizAlign="2" /><v:tabList />Speaker-</text><text
+   x="28.587114"
+   y="569.05249"
+   class="st2"
+   v:langID="4105"
+   id="text12-1-9-8"
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
+   v:horizAlign="2" /><v:tabList />Status led</text>		</g>
 		<g
    id="shape170-34"
    v:mID="170"
    v:groupContext="shape"
-   transform="rotate(90,459.565,707.065)">
+   transform="rotate(90,440.75969,687.42388)">
 			<title
    id="title13">Sheet.170</title>
 			<desc
@@ -7376,7 +7387,7 @@
    id="shape227-170"
    v:mID="227"
    v:groupContext="shape"
-   transform="translate(455.16143,-436.59976)">
+   transform="rotate(90,470.4332,694.88277)">
 			<title
    id="title66-9">Sheet.227</title>
 			<desc
@@ -7405,10 +7416,15 @@
    style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
    v:horizAlign="2" /><v:tabList />Sda</text>		</g>
 		<g
-   id="shape228-173"
-   v:mID="228"
-   v:groupContext="shape"
-   transform="translate(449.83761,-399.94281)">
+   id="g8"
+   clip-path="url(#clipPath8)"
+   transform="rotate(90,551.42238,102.75998)"><g
+     inkscape:label="Clip"
+     id="g7"><g
+       id="shape228-173"
+       v:mID="228"
+       v:groupContext="shape"
+       transform="translate(505.27848,-547.5994)">
 			<title
    id="title67-2">Sheet.228</title>
 			<desc
@@ -7435,12 +7451,12 @@
    v:langID="4105"
    id="text68"
    style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />Sw1</text>		</g>
+   v:horizAlign="2" /><v:tabList />Sw1</text>		</g></g></g>
 		<g
    id="shape229-176"
    v:mID="229"
    v:groupContext="shape"
-   transform="translate(449.83761,-381.38031)">
+   transform="rotate(90,545.47135,601.42672)">
 			<title
    id="title68-6">Sheet.229</title>
 			<desc
@@ -7596,7 +7612,7 @@
    id="shape234-191"
    v:mID="234"
    v:groupContext="shape"
-   transform="rotate(90,573.32967,610.59073)">
+   transform="rotate(90,568.54956,613.04065)">
 			<title
    id="title73-2">Sheet.234</title>
 			<desc
@@ -7623,12 +7639,12 @@
    v:langID="4105"
    id="text74"
    style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />VddIO</text>		</g>
+   v:horizAlign="2" /><v:tabList />3.3V</text>		</g>
 		<g
    id="shape235-194"
    v:mID="235"
    v:groupContext="shape"
-   transform="rotate(90,564.04842,601.30948)">
+   transform="rotate(90,564.74491,598.10561)">
 			<title
    id="title74-8">Sheet.235</title>
 			<desc
@@ -7655,12 +7671,12 @@
    v:langID="4105"
    id="text75-8"
    style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />Vdd</text>		</g>
+   v:horizAlign="2" /><v:tabList />1.1V</text>		</g>
 		<g
    id="shape236-197"
    v:mID="236"
    v:groupContext="shape"
-   transform="rotate(90,468.845,716.345)">
+   transform="rotate(90,468.14851,714.81271)">
 			<title
    id="title75-8">Sheet.236</title>
 			<desc
@@ -7691,7 +7707,7 @@
    id="shape237-200"
    v:mID="237"
    v:groupContext="shape"
-   transform="rotate(90,487.405,734.905)">
+   transform="rotate(90,486.70851,733.37271)">
 			<title
    id="title76-0">Sheet.237</title>
 			<desc
@@ -7722,43 +7738,43 @@
    xml:space="preserve"
    transform="scale(0.75000001)"
    id="text21"
-   style="fill:none;text-orientation:auto;fill-rule:evenodd;stroke-width:1.33417323;-inkscape-font-specification:'Yu Gothic, Normal';font-family:'Yu Gothic';font-size:16px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect86);" /><text
+   style="font-size:16px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect86);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
    xml:space="preserve"
    transform="scale(0.75000001)"
    id="text90"
-   style="fill:none;text-orientation:auto;fill-rule:evenodd;stroke-width:1.33417323;-inkscape-font-specification:'Yu Gothic, Normal';font-family:'Yu Gothic';font-size:16px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect90);" /><text
+   style="font-size:16px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect90);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
    xml:space="preserve"
    transform="scale(0.75000001)"
    id="text91"
-   style="fill:none;text-orientation:auto;fill-rule:evenodd;stroke-width:1.33417323;-inkscape-font-specification:'Yu Gothic, Normal';font-family:'Yu Gothic';font-size:16px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect91);" /><text
+   style="font-size:16px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect91);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
    xml:space="preserve"
    transform="scale(0.75000001)"
    id="text92"
-   style="fill:none;text-orientation:auto;fill-rule:evenodd;stroke-width:1.33417323;-inkscape-font-specification:'Yu Gothic, Normal';font-family:'Yu Gothic';font-size:16px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect92);" /><text
+   style="font-size:16px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect92);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
    xml:space="preserve"
    transform="scale(0.75000001)"
    id="text93"
-   style="fill:none;text-orientation:auto;fill-rule:evenodd;stroke-width:1.33417323;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-size:16px;writing-mode:lr-tb;direction:ltr;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect93);" /><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect93);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
    xml:space="preserve"
    transform="scale(0.75000001)"
    id="text94"
-   style="fill:none;text-orientation:auto;fill-rule:evenodd;stroke-width:1.33417323;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-size:16px;writing-mode:lr-tb;direction:ltr;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect94);" /><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect94);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
    xml:space="preserve"
    transform="scale(0.75000001)"
    id="text95"
-   style="fill:none;text-orientation:auto;fill-rule:evenodd;stroke-width:1.33417323;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-size:16px;writing-mode:lr-tb;direction:ltr;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect95);" /><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect95);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
    xml:space="preserve"
    transform="scale(0.75000001)"
    id="text96"
-   style="fill:none;text-orientation:auto;fill-rule:evenodd;stroke-width:1.33417323;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-size:16px;writing-mode:lr-tb;direction:ltr;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect96);" /><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect96);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
    xml:space="preserve"
    transform="scale(0.75000001)"
    id="text97"
-   style="fill:none;text-orientation:auto;fill-rule:evenodd;stroke-width:1.33417323;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-size:16px;writing-mode:lr-tb;direction:ltr;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect97);" /><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect97);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
    xml:space="preserve"
    transform="scale(0.75000001)"
    id="text98"
-   style="fill:none;text-orientation:auto;fill-rule:evenodd;stroke-width:1.33417323;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-size:16px;writing-mode:lr-tb;direction:ltr;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect98);" /><path
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect98);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><path
    style="fill:none;stroke:#4472c4;stroke-width:0.0555118px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    d="m 76.738862,187.8068 3.2752,-7.21654 3.83032,6.99449 -7.10552,0.22205"
    id="path5675" /><g
@@ -8696,4 +8712,8 @@
      clip-path="url(#clipEmfPath1-0)"
      d="m 92.96378,1.6283465 h 9.54803"
      id="path7599"
-     transform="matrix(0.75000001,0,0,0.75000001,-191.6218,67.369724)" /></g></svg>
+     transform="matrix(0.75000001,0,0,0.75000001,-191.6218,67.369724)" /></g><text
+   xml:space="preserve"
+   transform="scale(0.75000001)"
+   id="text30"
+   style="fill:none;text-orientation:auto;fill-rule:evenodd;stroke-width:1.33417323;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-size:16px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect32)" /></svg>
