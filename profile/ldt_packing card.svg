@@ -20,78 +20,68 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"><text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:105.918;display:inline;fill:#000000;stroke-width:0.264583"
-   x="41.588665"
-   y="20.654873"
-   id="text1-5-5-5-8"
-   transform="matrix(2.8346457,0,0,2.8346457,53.328325,-12.550574)"><tspan
-     x="41.588665"
-     y="20.654873"
-     id="tspan8">Excessively smart, precisely small
-</tspan></text><text
-   xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.749999"
-   x="110.55253"
-   y="65.913948"
+   x="129.5136"
+   y="36.856731"
    id="text1-5-1"><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="110.55253"
-     y="65.913948"
+     x="129.5136"
+     y="36.856731"
      id="tspan718-3" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="110.55253"
-     y="80.913948"
+     x="129.5136"
+     y="51.856731"
      id="tspan727-4">Commit:  ___________ </tspan><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="110.55253"
-     y="95.913948"
+     x="129.5136"
+     y="66.856728"
      id="tspan9-2" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="110.55253"
-     y="110.91395"
+     x="129.5136"
+     y="81.856728"
      id="tspan733-7" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="110.55253"
-     y="125.91395"
+     x="129.5136"
+     y="96.856728"
      id="tspan715-7" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="110.55253"
-     y="140.91394"
+     x="129.5136"
+     y="111.85673"
      id="tspan6-9" /></text><rect
    style="fill:#000000;stroke-width:0.354217"
    id="rect724-6-6"
    width="8.5039368"
    height="8.5039368"
-   x="249.08464"
-   y="91.083519" /><text
+   x="225.69113"
+   y="109.55209" /><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.749999"
-   x="104.1226"
-   y="65.155807"
+   x="113.23376"
+   y="26.24869"
    id="text721-9"><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="104.1226"
-     y="65.155807"
-     id="tspan88">XS-LDT-02 Launch Deployment Timer </tspan><tspan
+     x="113.23376"
+     y="26.24869"
+     id="tspan88">XS-LDT Launch Deployment Timer </tspan><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="104.1226"
-     y="80.155807"
+     x="113.23376"
+     y="41.248688"
      id="tspan87" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="104.1226"
-     y="95.155807"
+     x="113.23376"
+     y="56.248688"
      id="tspan721-8" /></text><g
    id="g128-0"
-   transform="rotate(-90,447.93289,98.426684)"><g
+   transform="rotate(-90,445.47042,119.35773)"><g
      id="1 cm. Tick Group-6-8"
      fill="none"
      fill-rule="nonzero"
@@ -173,105 +163,75 @@
        d="M 35.51181,0 V 14.17323"
        id="1/10th cm. Tick no. 9-7-2" /></g></g><text
    xml:space="preserve"
-   style="font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';writing-mode:lr-tb;direction:ltr;fill:none;fill-rule:evenodd;stroke-width:1.00063"
-   x="195.21141"
-   y="105.82975"
-   id="text20"><tspan
-     sodipodi:role="line"
-     id="tspan20"
-     style="stroke-width:1.00063"
-     x="195.21141"
-     y="105.82975">`</tspan></text><text
-   xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.749999"
-   x="110.58484"
-   y="81.305016"
+   x="136.44084"
+   y="54.956524"
    id="text1-5-1-2"><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="110.58484"
-     y="81.305016"
+     x="136.44084"
+     y="54.956524"
      id="tspan718-3-4" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="110.58484"
-     y="96.305016"
+     x="136.44084"
+     y="69.95652"
      id="tspan727-4-5">Config:  ___________ </tspan><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="110.58484"
-     y="111.30502"
+     x="136.44084"
+     y="84.95652"
      id="tspan9-2-5" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="110.58484"
-     y="126.30502"
+     x="136.44084"
+     y="99.95652"
      id="tspan733-7-1" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="110.58484"
-     y="141.30502"
+     x="136.44084"
+     y="114.95652"
      id="tspan715-7-71" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="110.58484"
-     y="156.30502"
+     x="136.44084"
+     y="129.95653"
      id="tspan6-9-1" /></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.749999"
-   x="109.12605"
-   y="97.066681"
+   x="135.47453"
+   y="74.411903"
    id="text1-5-1-1-5"><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="109.12605"
-     y="97.066681"
+     x="135.47453"
+     y="74.411903"
      id="tspan19-2-2" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="109.12605"
-     y="112.06668"
+     x="135.47453"
+     y="89.411903"
      id="tspan727-4-3-7">Tested:  ___________</tspan><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="109.12605"
-     y="127.06668"
+     x="135.47453"
+     y="104.4119"
      id="tspan9-2-3-6" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="109.12605"
-     y="142.06668"
+     x="135.47453"
+     y="119.4119"
      id="tspan733-7-9-1" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="109.12605"
-     y="157.06668"
+     x="135.47453"
+     y="134.41191"
      id="tspan715-7-7-4" /><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="109.12605"
-     y="172.06668"
-     id="tspan6-9-2-2" /></text><text
-   xml:space="preserve"
-   style="font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';writing-mode:lr-tb;direction:ltr;fill:none;fill-rule:evenodd;stroke-width:1.00063"
-   x="188.34879"
-   y="118.01958"
-   id="text20-3"><tspan
-     sodipodi:role="line"
-     id="tspan20-2"
-     style="stroke-width:1.00063"
-     x="188.34879"
-     y="118.01958">`</tspan></text><text
-   xml:space="preserve"
-   style="font-size:12px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';writing-mode:lr-tb;direction:ltr;fill:none;fill-rule:evenodd;stroke-width:1.00063"
-   x="383.15948"
-   y="90.279381"
-   id="text89"><tspan
-     sodipodi:role="line"
-     id="tspan89"
-     style="stroke-width:1.00063"
-     x="383.15948"
-     y="90.279381">````</tspan></text><g
+     x="135.47453"
+     y="149.4119"
+     id="tspan6-9-2-2" /></text><g
    id="g1"
    transform="matrix(0.9658114,0,0,0.96589592,5.2777147,4.813761)"><rect
      x="12"
@@ -4600,15 +4560,15 @@
          x="17.466175"
          y="68.019676">XS</tspan></text></g></g><text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.749999"
-   x="99.698433"
-   y="33.763809"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.749999"
+   x="12.28054"
+   y="278.78018"
    id="text1"><tspan
      sodipodi:role="line"
      id="tspan3"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
-     x="99.698433"
-     y="33.763809">Xyzzy Semiconductor</tspan></text><text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.749999"
+     x="12.28054"
+     y="278.78018">Xyzzy Semiconductor</tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:38.7398;display:inline;fill:#000000;stroke-width:0.264583"
    x="105.4211"
@@ -4617,17 +4577,17 @@
    transform="matrix(2.8346457,0,0,2.8346457,43.918315,-71.305394)"><tspan
      x="105.4211"
      y="62.209427"
-     id="tspan9">Datasheet info
+     id="tspan1">Datasheet info
 </tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:206.753;display:inline;fill:#000000;stroke-width:0.265;stroke-dasharray:none;image-rendering:optimizeQuality"
    x="23.318129"
    y="103.8717"
    id="text1-5-5-6-6"
-   transform="matrix(2.8346457,0,0,2.8346457,-26.861125,-19.950921)"><tspan
+   transform="matrix(2.8346457,0,0,2.8346457,247.70492,-16.749703)"><tspan
      x="23.318129"
      y="103.8717"
-     id="tspan10">For hobbyist use only. Follow ESD safe handling and precautions.
+     id="tspan2">For hobbyist use only.
 </tspan></text><metadata
    id="metadata1653"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -4642,8 +4602,8 @@
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="in"
    inkscape:zoom="3.0457152"
-   inkscape:cx="278.75226"
-   inkscape:cy="203.89299"
+   inkscape:cx="223.10031"
+   inkscape:cy="172.04498"
    inkscape:window-width="3291"
    inkscape:window-height="1745"
    inkscape:window-x="3829"
@@ -4688,6 +4648,26 @@
 
 	<defs
    id="Markers"><rect
+   x="-87.75816"
+   y="-45.96856"
+   width="221.94921"
+   height="178.76662"
+   id="rect11" /><rect
+   x="219.65284"
+   y="352.29821"
+   width="106.05062"
+   height="24.953088"
+   id="rect6" /><rect
+   x="135.272"
+   y="43.996234"
+   width="56.801109"
+   height="24.624758"
+   id="rect5" /><rect
+   x="136.91365"
+   y="48.264526"
+   width="214.39956"
+   height="23.968098"
+   id="rect2" /><rect
    x="137.57031"
    y="97.185711"
    width="179.59657"
@@ -5725,69 +5705,129 @@
    x="0"
    y="0" /><clipPath
    clipPathUnits="userSpaceOnUse"
-   id="clipPath8"><use
-     x="0"
-     y="0"
-     xlink:href="#g7"
-     id="use30" /></clipPath></defs>
-	
-<text
-   xml:space="preserve"
-   transform="scale(0.75)"
-   id="text128"
-   style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect714);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
-   xml:space="preserve"
-   style="font-size:9px;writing-mode:lr-tb;direction:ltr;fill:none;fill-rule:evenodd;stroke-width:1.00063"
-   x="560.58197"
-   y="92.803276"
-   id="text716"><tspan
-     sodipodi:role="line"
-     id="tspan716"
-     style="stroke-width:1.00063"
-     x="560.58197"
-     y="92.803276">`</tspan></text><text
-   xml:space="preserve"
-   transform="scale(0.75000001)"
-   id="text3"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><g
-   v:mID="0"
-   v:index="1"
-   v:groupContext="foregroundPage"
-   id="g77"
-   transform="matrix(0.625,0,0,0.625,-18.678118,78.626716)">
-		<v:userDefs>
-			<v:ud
-   v:nameU="msvThemeOrder"
-   v:val="VT0(0):26" />
-			<v:ud
-   v:nameU="PEHideTags" />
-		</v:userDefs>
-		<title
-   id="title1">Page-1</title>
-		<v:pageProperties
-   v:drawingScale="1"
-   v:pageScale="1"
-   v:drawingUnits="0"
-   v:shadowOffsetX="9"
-   v:shadowOffsetY="-9" />
-		<v:layer
-   v:name="Connector"
-   v:index="0" />
-		<v:layer
-   v:name="Instrument"
-   v:index="1" />
-		<v:layer
-   v:name="Flowchart"
-   v:index="2" />
-		<v:layer
-   v:name="Electrical"
-   v:index="3" />
+   id="clipPath8"><g
+     inkscape:label="Clip"
+     id="use30"><g
+       id="g10"
+       v:mID="228"
+       v:groupContext="shape"
+       transform="translate(505.27848,-547.5994)">
+			<title
+   id="title6">Sheet.228</title>
+			<desc
+   id="desc6">SdataA1</desc>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)" />
+			<v:textRect
+   cx="35"
+   cy="602.719"
+   width="70.01"
+   height="18.5625" />
+			<rect
+   x="0"
+   y="593.43799"
+   width="70"
+   height="18.5625"
+   class="st1"
+   id="rect7"
+   style="fill:none;stroke:none;stroke-width:0.5" />
+			<text
+   x="25.639999"
+   y="606.32001"
+   class="st2"
+   v:langID="4105"
+   id="text7"
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
+   v:horizAlign="2" /><v:tabList />Sw1</text>		</g></g></clipPath>
 		
-		<g
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</defs>
+	
+<g
    id="shape160-4"
    v:mID="160"
    v:groupContext="shape"
-   transform="translate(640.74203,-400.31491)">
+   transform="matrix(0.625,0,0,0.625,381.78565,-171.5701)">
 			<title
    id="title3-7">Sheet.160</title>
 			<desc
@@ -5813,12 +5853,11 @@
    class="st2"
    v:langID="4105"
    id="text3-8"
-   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Deploy</text>		</g>
-		<g
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Deploy</text>		</g><g
    id="shape161-7"
    v:mID="161"
    v:groupContext="shape"
-   transform="translate(640.74203,-382.45491)">
+   transform="matrix(0.625,0,0,0.625,381.78565,-160.4076)">
 			<title
    id="title4-5">Sheet.161</title>
 			<desc
@@ -5844,12 +5883,11 @@
    class="st2"
    v:langID="4105"
    id="text4"
-   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Dump</text>		</g>
-		<g
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Dump</text>		</g><g
    id="shape162-10"
    v:mID="162"
    v:groupContext="shape"
-   transform="translate(395.51113,-401.2831)">
+   transform="matrix(0.625,0,0,0.625,228.51634,-172.17522)">
 			<title
    id="title5-1">Sheet.162</title>
 			<desc
@@ -5876,12 +5914,11 @@
    v:langID="4105"
    id="text5-7"
    style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />ContEnable</text>		</g>
-		<g
+   v:horizAlign="2" /><v:tabList />ContEnable</text>		</g><g
    id="shape163-13"
    v:mID="163"
    v:groupContext="shape"
-   transform="rotate(90,461.29124,685.9159)">
+   transform="matrix(0,0.625,-0.625,0,698.32634,219.01713)">
 			<title
    id="title6-1">Sheet.163</title>
 			<desc
@@ -5908,12 +5945,11 @@
    v:langID="4105"
    id="text6-1"
    style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />Scl</text>		</g>
-		<g
+   v:horizAlign="2" /><v:tabList />Scl</text>		</g><g
    id="shape164-16"
    v:mID="164"
    v:groupContext="shape"
-   transform="rotate(90,526.11148,603.94571)">
+   transform="matrix(0,0.625,-0.625,0,687.60763,127.27311)">
 			<title
    id="title7-2">Sheet.164</title>
 			<desc
@@ -5939,12 +5975,11 @@
    class="st2"
    v:langID="4105"
    id="text7-3"
-   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Sw3</text>		</g>
-		<g
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Sw3</text>		</g><g
    id="shape165-19"
    v:mID="165"
    v:groupContext="shape"
-   transform="rotate(90,478.39159,723.6628)">
+   transform="matrix(0,0.625,-0.625,0,732.60588,231.92122)">
 			<title
    id="title8-4">Sheet.165</title>
 			<desc
@@ -5970,12 +6005,11 @@
    class="st2"
    v:langID="4105"
    id="text8-5"
-   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />/Reset</text>		</g>
-		<g
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />/Reset</text>		</g><g
    id="shape166-22"
    v:mID="166"
    v:groupContext="shape"
-   transform="translate(475.2375,-418.8427)">
+   transform="matrix(0.625,0,0,0.625,278.34532,-183.14997)">
 			<title
    id="title9">Sheet.166</title>
 			<desc
@@ -6001,13 +6035,11 @@
    class="st2"
    v:langID="4105"
    id="text9"
-   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Sw4</text>		</g>
-		
-		<g
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Sw4</text>		</g><g
    id="shape168-28"
    v:mID="168"
    v:groupContext="shape"
-   transform="translate(415.61257,-381.67727)">
+   transform="matrix(0.625,0,0,0.625,241.07974,-159.92158)">
 			<title
    id="title11-6">Sheet.168</title>
 			<desc
@@ -6034,12 +6066,11 @@
    v:langID="4105"
    id="text11-3"
    style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />ContSense</text>		</g>
-		<g
+   v:horizAlign="2" /><v:tabList />ContSense</text>		</g><g
    id="shape169-31"
    v:mID="169"
    v:groupContext="shape"
-   transform="translate(421.26783,-434.88608)">
+   transform="matrix(0.625,0,0,0.625,244.61428,-193.17708)">
 			<title
    id="title12-0">Sheet.169</title>
 			<desc
@@ -6080,12 +6111,11 @@
    v:langID="4105"
    id="text12-1-9-8"
    style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />Status led</text>		</g>
-		<g
+   v:horizAlign="2" /><v:tabList />Status led</text>		</g><g
    id="shape170-34"
    v:mID="170"
    v:groupContext="shape"
-   transform="rotate(90,440.75969,687.42388)">
+   transform="matrix(0,0.625,-0.625,0,686.43661,232.79183)">
 			<title
    id="title13">Sheet.170</title>
 			<desc
@@ -6111,12 +6141,11 @@
    class="st2"
    v:langID="4105"
    id="text13"
-   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Charge</text>		</g>
-		<g
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Charge</text>		</g><g
    id="shape171-37"
    v:mID="171"
    v:groupContext="shape"
-   transform="translate(504,-369.281)">
+   transform="matrix(0.625,0,0,0.625,296.32188,-152.17391)">
 			<title
    id="title14-3">Sheet.171</title>
 			<rect
@@ -6127,12 +6156,11 @@
    class="st3"
    id="rect14-8"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape172-39"
    v:mID="172"
    v:groupContext="shape"
-   transform="translate(504,-477.281)">
+   transform="matrix(0.625,0,0,0.625,296.32188,-219.67391)">
 			<title
    id="title15-1">Sheet.172</title>
 			<rect
@@ -6143,12 +6171,11 @@
    class="st3"
    id="rect15-69"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape173-41"
    v:mID="173"
    v:groupContext="shape"
-   transform="translate(504,-459.281)">
+   transform="matrix(0.625,0,0,0.625,296.32188,-208.42391)">
 			<title
    id="title16-8">Sheet.173</title>
 			<rect
@@ -6159,12 +6186,11 @@
    class="st3"
    id="rect16"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape174-43"
    v:mID="174"
    v:groupContext="shape"
-   transform="translate(504,-441.281)">
+   transform="matrix(0.625,0,0,0.625,296.32188,-197.17391)">
 			<title
    id="title17-0">Sheet.174</title>
 			<rect
@@ -6175,12 +6201,11 @@
    class="st3"
    id="rect17"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape175-45"
    v:mID="175"
    v:groupContext="shape"
-   transform="translate(504,-423.281)">
+   transform="matrix(0.625,0,0,0.625,296.32188,-185.92391)">
 			<title
    id="title18-1">Sheet.175</title>
 			<rect
@@ -6191,12 +6216,11 @@
    class="st3"
    id="rect18"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape176-47"
    v:mID="176"
    v:groupContext="shape"
-   transform="translate(504,-405.281)">
+   transform="matrix(0.625,0,0,0.625,296.32188,-174.67391)">
 			<title
    id="title19-3">Sheet.176</title>
 			<rect
@@ -6207,12 +6231,11 @@
    class="st3"
    id="rect19"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape177-49"
    v:mID="177"
    v:groupContext="shape"
-   transform="translate(504,-387.281)">
+   transform="matrix(0.625,0,0,0.625,296.32188,-163.42391)">
 			<title
    id="title20-9">Sheet.177</title>
 			<rect
@@ -6223,12 +6246,11 @@
    class="st3"
    id="rect20"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape178-51"
    v:mID="178"
    v:groupContext="shape"
-   transform="translate(522,-369.281)">
+   transform="matrix(0.625,0,0,0.625,307.57188,-152.17391)">
 			<title
    id="title21-3">Sheet.178</title>
 			<rect
@@ -6239,12 +6261,11 @@
    class="st3"
    id="rect21"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape179-53"
    v:mID="179"
    v:groupContext="shape"
-   transform="translate(540,-369.281)">
+   transform="matrix(0.625,0,0,0.625,318.82188,-152.17391)">
 			<title
    id="title22-9">Sheet.179</title>
 			<rect
@@ -6255,12 +6276,11 @@
    class="st3"
    id="rect22"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape180-55"
    v:mID="180"
    v:groupContext="shape"
-   transform="translate(558,-369.281)">
+   transform="matrix(0.625,0,0,0.625,330.07188,-152.17391)">
 			<title
    id="title23-3">Sheet.180</title>
 			<rect
@@ -6271,12 +6291,11 @@
    class="st3"
    id="rect23"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape181-57"
    v:mID="181"
    v:groupContext="shape"
-   transform="translate(576,-369.281)">
+   transform="matrix(0.625,0,0,0.625,341.32188,-152.17391)">
 			<title
    id="title24-6">Sheet.181</title>
 			<rect
@@ -6287,12 +6306,11 @@
    class="st3"
    id="rect24"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape182-59"
    v:mID="182"
    v:groupContext="shape"
-   transform="translate(594,-369.281)">
+   transform="matrix(0.625,0,0,0.625,352.57188,-152.17391)">
 			<title
    id="title25-5">Sheet.182</title>
 			<rect
@@ -6303,12 +6321,11 @@
    class="st3"
    id="rect25"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape183-61"
    v:mID="183"
    v:groupContext="shape"
-   transform="translate(612,-369.281)">
+   transform="matrix(0.625,0,0,0.625,363.82188,-152.17391)">
 			<title
    id="title26-5">Sheet.183</title>
 			<rect
@@ -6319,12 +6336,11 @@
    class="st3"
    id="rect26"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape184-63"
    v:mID="184"
    v:groupContext="shape"
-   transform="translate(630,-387.141)">
+   transform="matrix(0.625,0,0,0.625,375.07188,-163.33641)">
 			<title
    id="title27-4">Sheet.184</title>
 			<rect
@@ -6335,12 +6351,11 @@
    class="st3"
    id="rect27"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape186-65"
    v:mID="186"
    v:groupContext="shape"
-   transform="translate(630,-405)">
+   transform="matrix(0.625,0,0,0.625,375.07188,-174.49828)">
 			<title
    id="title28-0">Sheet.186</title>
 			<rect
@@ -6351,12 +6366,11 @@
    class="st3"
    id="rect28"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape187-67"
    v:mID="187"
    v:groupContext="shape"
-   transform="translate(630,-422.859)">
+   transform="matrix(0.625,0,0,0.625,375.07188,-185.66016)">
 			<title
    id="title29-5">Sheet.187</title>
 			<rect
@@ -6367,12 +6381,11 @@
    class="st3"
    id="rect29"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape188-69"
    v:mID="188"
    v:groupContext="shape"
-   transform="translate(630,-440.719)">
+   transform="matrix(0.625,0,0,0.625,375.07188,-196.82266)">
 			<title
    id="title30-0">Sheet.188</title>
 			<rect
@@ -6383,12 +6396,11 @@
    class="st3"
    id="rect30"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape189-71"
    v:mID="189"
    v:groupContext="shape"
-   transform="translate(630,-459)">
+   transform="matrix(0.625,0,0,0.625,375.07188,-208.24828)">
 			<title
    id="title31-6">Sheet.189</title>
 			<rect
@@ -6399,12 +6411,11 @@
    class="st3"
    id="rect31"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape190-73"
    v:mID="190"
    v:groupContext="shape"
-   transform="translate(630,-477)">
+   transform="matrix(0.625,0,0,0.625,375.07188,-219.49828)">
 			<title
    id="title32-5">Sheet.190</title>
 			<rect
@@ -6415,12 +6426,11 @@
    class="st3"
    id="rect32-5"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape191-75"
    v:mID="191"
    v:groupContext="shape"
-   transform="translate(522,-486)">
+   transform="matrix(0.625,0,0,0.625,307.57188,-225.12328)">
 			<title
    id="title33-1">Sheet.191</title>
 			<rect
@@ -6431,12 +6441,11 @@
    class="st3"
    id="rect33"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape192-77"
    v:mID="192"
    v:groupContext="shape"
-   transform="translate(540,-486)">
+   transform="matrix(0.625,0,0,0.625,318.82188,-225.12328)">
 			<title
    id="title34-8">Sheet.192</title>
 			<rect
@@ -6447,12 +6456,11 @@
    class="st3"
    id="rect34"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape193-79"
    v:mID="193"
    v:groupContext="shape"
-   transform="translate(558,-486)">
+   transform="matrix(0.625,0,0,0.625,330.07188,-225.12328)">
 			<title
    id="title35-9">Sheet.193</title>
 			<rect
@@ -6463,12 +6471,11 @@
    class="st3"
    id="rect35"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape194-81"
    v:mID="194"
    v:groupContext="shape"
-   transform="translate(576,-486)">
+   transform="matrix(0.625,0,0,0.625,341.32188,-225.12328)">
 			<title
    id="title36-6">Sheet.194</title>
 			<rect
@@ -6479,12 +6486,11 @@
    class="st3"
    id="rect36-2"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape195-83"
    v:mID="195"
    v:groupContext="shape"
-   transform="translate(594,-486)">
+   transform="matrix(0.625,0,0,0.625,352.57188,-225.12328)">
 			<title
    id="title37-2">Sheet.195</title>
 			<rect
@@ -6495,12 +6501,11 @@
    class="st3"
    id="rect37"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape196-85"
    v:mID="196"
    v:groupContext="shape"
-   transform="translate(612,-486)">
+   transform="matrix(0.625,0,0,0.625,363.82188,-225.12328)">
 			<title
    id="title38-5">Sheet.196</title>
 			<rect
@@ -6511,12 +6516,12 @@
    class="st3"
    id="rect38"
    style="fill:none;stroke:#000000;stroke-width:0.25" />
-		</g>
-		<g
+		</g><g
    id="shape197-87"
    v:mID="197"
    v:groupContext="shape"
-   transform="translate(517.5,-490.366)">
+   transform="matrix(0.625,0,0,0.625,304.75938,-227.85203)"
+   inkscape:label="shape197-87">
 			<title
    id="title39-0">Sheet.197</title>
 			<desc
@@ -6543,12 +6548,11 @@
    v:langID="4105"
    id="text39"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />24</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />24</text>		</g><g
    id="shape199-90"
    v:mID="199"
    v:groupContext="shape"
-   transform="translate(535.5,-490.366)">
+   transform="matrix(0.625,0,0,0.625,316.00938,-227.85203)">
 			<title
    id="title40-5">Sheet.199</title>
 			<desc
@@ -6575,12 +6579,11 @@
    v:langID="4105"
    id="text40"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />23</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />23</text>		</g><g
    id="shape200-93"
    v:mID="200"
    v:groupContext="shape"
-   transform="translate(553.5,-490.366)">
+   transform="matrix(0.625,0,0,0.625,327.25938,-227.85203)">
 			<title
    id="title41-5">Sheet.200</title>
 			<desc
@@ -6607,12 +6610,11 @@
    v:langID="4105"
    id="text41"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />22</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />22</text>		</g><g
    id="shape201-96"
    v:mID="201"
    v:groupContext="shape"
-   transform="translate(571.5,-490.366)">
+   transform="matrix(0.625,0,0,0.625,338.50938,-227.85203)">
 			<title
    id="title42-2">Sheet.201</title>
 			<desc
@@ -6639,12 +6641,11 @@
    v:langID="4105"
    id="text42"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />21</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />21</text>		</g><g
    id="shape202-99"
    v:mID="202"
    v:groupContext="shape"
-   transform="translate(589.5,-490.366)">
+   transform="matrix(0.625,0,0,0.625,349.75938,-227.85203)">
 			<title
    id="title43-0">Sheet.202</title>
 			<desc
@@ -6671,12 +6672,11 @@
    v:langID="4105"
    id="text43"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />20</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />20</text>		</g><g
    id="shape203-102"
    v:mID="203"
    v:groupContext="shape"
-   transform="translate(607.5,-490.366)">
+   transform="matrix(0.625,0,0,0.625,361.00938,-227.85203)">
 			<title
    id="title44-6">Sheet.203</title>
 			<desc
@@ -6703,12 +6703,11 @@
    v:langID="4105"
    id="text44"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />19</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />19</text>		</g><g
    id="shape204-105"
    v:mID="204"
    v:groupContext="shape"
-   transform="translate(625.5,-477.154)">
+   transform="matrix(0.625,0,0,0.625,372.25938,-219.59453)">
 			<title
    id="title45-2">Sheet.204</title>
 			<desc
@@ -6735,12 +6734,11 @@
    v:langID="4105"
    id="text45"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />18</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />18</text>		</g><g
    id="shape205-108"
    v:mID="205"
    v:groupContext="shape"
-   transform="translate(625.5,-459.308)">
+   transform="matrix(0.625,0,0,0.625,372.25938,-208.44078)">
 			<title
    id="title46-8">Sheet.205</title>
 			<desc
@@ -6767,12 +6765,11 @@
    v:langID="4105"
    id="text46"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />17</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />17</text>		</g><g
    id="shape206-111"
    v:mID="206"
    v:groupContext="shape"
-   transform="translate(625.5,-440.719)">
+   transform="matrix(0.625,0,0,0.625,372.25938,-196.82266)">
 			<title
    id="title47-0">Sheet.206</title>
 			<desc
@@ -6799,12 +6796,11 @@
    v:langID="4105"
    id="text47"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />16</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />16</text>		</g><g
    id="shape207-114"
    v:mID="207"
    v:groupContext="shape"
-   transform="translate(625.5,-423.026)">
+   transform="matrix(0.625,0,0,0.625,372.25938,-185.76453)">
 			<title
    id="title48-0">Sheet.207</title>
 			<desc
@@ -6831,12 +6827,11 @@
    v:langID="4105"
    id="text48"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />15</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />15</text>		</g><g
    id="shape208-117"
    v:mID="208"
    v:groupContext="shape"
-   transform="translate(625.5,-405.154)">
+   transform="matrix(0.625,0,0,0.625,372.25938,-174.59453)">
 			<title
    id="title49-8">Sheet.208</title>
 			<desc
@@ -6863,12 +6858,11 @@
    v:langID="4105"
    id="text49"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />14</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />14</text>		</g><g
    id="shape209-120"
    v:mID="209"
    v:groupContext="shape"
-   transform="translate(625.5,-387.141)">
+   transform="matrix(0.625,0,0,0.625,372.25938,-163.33641)">
 			<title
    id="title50-3">Sheet.209</title>
 			<desc
@@ -6895,12 +6889,11 @@
    v:langID="4105"
    id="text50"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />13</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />13</text>		</g><g
    id="shape210-123"
    v:mID="210"
    v:groupContext="shape"
-   transform="translate(607.5,-373.647)">
+   transform="matrix(0.625,0,0,0.625,361.00938,-154.90266)">
 			<title
    id="title51-0">Sheet.210</title>
 			<desc
@@ -6927,12 +6920,11 @@
    v:langID="4105"
    id="text51"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />12</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />12</text>		</g><g
    id="shape211-126"
    v:mID="211"
    v:groupContext="shape"
-   transform="translate(589.5,-373.647)">
+   transform="matrix(0.625,0,0,0.625,349.75938,-154.90266)">
 			<title
    id="title52-6">Sheet.211</title>
 			<desc
@@ -6959,12 +6951,11 @@
    v:langID="4105"
    id="text52"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />11</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />11</text>		</g><g
    id="shape212-129"
    v:mID="212"
    v:groupContext="shape"
-   transform="translate(571.5,-373.647)">
+   transform="matrix(0.625,0,0,0.625,338.50938,-154.90266)">
 			<title
    id="title53-3">Sheet.212</title>
 			<desc
@@ -6991,12 +6982,11 @@
    v:langID="4105"
    id="text53"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />10</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />10</text>		</g><g
    id="shape213-132"
    v:mID="213"
    v:groupContext="shape"
-   transform="translate(553.5,-373.647)">
+   transform="matrix(0.625,0,0,0.625,327.25938,-154.90266)">
 			<title
    id="title54-7">Sheet.213</title>
 			<desc
@@ -7023,12 +7013,11 @@
    v:langID="4105"
    id="text54"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />9</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />9</text>		</g><g
    id="shape214-135"
    v:mID="214"
    v:groupContext="shape"
-   transform="translate(535.5,-373.647)">
+   transform="matrix(0.625,0,0,0.625,316.00938,-154.90266)">
 			<title
    id="title55-0">Sheet.214</title>
 			<desc
@@ -7055,12 +7044,11 @@
    v:langID="4105"
    id="text55"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />8</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />8</text>		</g><g
    id="shape215-138"
    v:mID="215"
    v:groupContext="shape"
-   transform="translate(517.5,-373.647)">
+   transform="matrix(0.625,0,0,0.625,304.75938,-154.90266)">
 			<title
    id="title56-5">Sheet.215</title>
 			<desc
@@ -7087,12 +7075,11 @@
    v:langID="4105"
    id="text56"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />7</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />7</text>		</g><g
    id="shape216-141"
    v:mID="216"
    v:groupContext="shape"
-   transform="translate(499.5,-387.281)">
+   transform="matrix(0.625,0,0,0.625,293.50938,-163.42391)">
 			<title
    id="title57-0">Sheet.216</title>
 			<desc
@@ -7119,12 +7106,11 @@
    v:langID="4105"
    id="text57"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />6</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />6</text>		</g><g
    id="shape217-144"
    v:mID="217"
    v:groupContext="shape"
-   transform="translate(499.5,-405.435)">
+   transform="matrix(0.625,0,0,0.625,293.50938,-174.77016)">
 			<title
    id="title58-7">Sheet.217</title>
 			<desc
@@ -7151,12 +7137,11 @@
    v:langID="4105"
    id="text58"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />5</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />5</text>		</g><g
    id="shape218-147"
    v:mID="218"
    v:groupContext="shape"
-   transform="translate(499.5,-423.435)">
+   transform="matrix(0.625,0,0,0.625,293.50938,-186.02016)">
 			<title
    id="title59-5">Sheet.218</title>
 			<desc
@@ -7183,12 +7168,11 @@
    v:langID="4105"
    id="text59"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />4</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />4</text>		</g><g
    id="shape219-150"
    v:mID="219"
    v:groupContext="shape"
-   transform="translate(499.5,-441.127)">
+   transform="matrix(0.625,0,0,0.625,293.50938,-197.07766)">
 			<title
    id="title60-6">Sheet.219</title>
 			<desc
@@ -7215,12 +7199,11 @@
    v:langID="4105"
    id="text60"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />3</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />3</text>		</g><g
    id="shape220-153"
    v:mID="220"
    v:groupContext="shape"
-   transform="translate(499.5,-459.435)">
+   transform="matrix(0.625,0,0,0.625,293.50938,-208.52016)">
 			<title
    id="title61-8">Sheet.220</title>
 			<desc
@@ -7247,12 +7230,11 @@
    v:langID="4105"
    id="text61"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />2</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />2</text>		</g><g
    id="shape221-156"
    v:mID="221"
    v:groupContext="shape"
-   transform="translate(499.5,-477.281)">
+   transform="matrix(0.625,0,0,0.625,293.50938,-219.67391)">
 			<title
    id="title62-1">Sheet.221</title>
 			<desc
@@ -7279,12 +7261,11 @@
    v:langID="4105"
    id="text62"
    style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="1" /><v:tabList />1</text>		</g>
-		<g
+   v:horizAlign="1" /><v:tabList />1</text>		</g><g
    id="shape222-159"
    v:mID="222"
    v:groupContext="shape"
-   transform="translate(540,-409.5)">
+   transform="matrix(0.625,0,0,0.625,318.82188,-177.31078)">
 			<title
    id="title63-8">Sheet.222</title>
 			<desc
@@ -7319,12 +7300,11 @@
    x="13.04"
    dy="1.2em"
    class="st6"
-   id="tspan64">Top view</tspan></text>		</g>
-		<g
+   id="tspan64">Top view</tspan></text>		</g><g
    id="shape223-164"
    v:mID="223"
    v:groupContext="shape"
-   transform="translate(640.74203,-435.18991)">
+   transform="matrix(0.625,0,0,0.625,381.78565,-193.36698)">
 			<title
    id="title64-5">Sheet.223</title>
 			<desc
@@ -7350,12 +7330,11 @@
    class="st2"
    v:langID="4105"
    id="text65"
-   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Spi_ck</text>		</g>
-		<g
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Spi_ck</text>		</g><g
    id="shape224-167"
    v:mID="224"
    v:groupContext="shape"
-   transform="rotate(90,583.315,637.315)">
+   transform="matrix(0,0.625,-0.625,0,744.21563,112.37672)">
 			<title
    id="title65-5">Sheet.224</title>
 			<desc
@@ -7382,12 +7361,11 @@
    v:langID="4105"
    id="text66"
    style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />Spi_so</text>		</g>
-		<g
+   v:horizAlign="2" /><v:tabList />Spi_so</text>		</g><g
    id="shape227-170"
    v:mID="227"
    v:groupContext="shape"
-   transform="rotate(90,470.4332,694.88277)">
+   transform="matrix(0,0.625,-0.625,0,709.64436,218.9077)">
 			<title
    id="title66-9">Sheet.227</title>
 			<desc
@@ -7414,49 +7392,11 @@
    v:langID="4105"
    id="text67"
    style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />Sda</text>		</g>
-		<g
-   id="g8"
-   clip-path="url(#clipPath8)"
-   transform="rotate(90,551.42238,102.75998)"><g
-     inkscape:label="Clip"
-     id="g7"><g
-       id="shape228-173"
-       v:mID="228"
-       v:groupContext="shape"
-       transform="translate(505.27848,-547.5994)">
-			<title
-   id="title67-2">Sheet.228</title>
-			<desc
-   id="desc67">SdataA1</desc>
-			<v:textBlock
-   v:margins="rect(4,4,4,4)" />
-			<v:textRect
-   cx="35"
-   cy="602.719"
-   width="70.01"
-   height="18.5625" />
-			<rect
-   x="0"
-   y="593.43799"
-   width="70"
-   height="18.5625"
-   class="st1"
-   id="rect67"
-   style="fill:none;stroke:none;stroke-width:0.5" />
-			<text
-   x="25.639999"
-   y="606.32001"
-   class="st2"
-   v:langID="4105"
-   id="text68"
-   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />Sw1</text>		</g></g></g>
-		<g
+   v:horizAlign="2" /><v:tabList />Sda</text>		</g><g
    id="shape229-176"
    v:mID="229"
    v:groupContext="shape"
-   transform="rotate(90,545.47135,601.42672)">
+   transform="matrix(0,0.625,-0.625,0,698.13318,113.59882)">
 			<title
    id="title68-6">Sheet.229</title>
 			<desc
@@ -7483,12 +7423,42 @@
    v:langID="4105"
    id="text69"
    style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />Sw2</text>		</g>
-		<g
+   v:horizAlign="2" /><v:tabList />Sw2</text>		</g><g
+   id="shape229-176-7"
+   v:mID="229"
+   v:groupContext="shape"
+   transform="matrix(0,0.625,-0.625,0,732.61337,112.90266)">
+			<title
+   id="title68-6-1">Sheet.229</title>
+			<desc
+   id="desc68-1">SdataB1</desc>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)" />
+			<v:textRect
+   cx="35"
+   cy="602.719"
+   width="70.01"
+   height="18.5625" />
+			<rect
+   x="0"
+   y="593.43799"
+   width="70"
+   height="18.5625"
+   class="st1"
+   id="rect68-5-5"
+   style="fill:none;stroke:none;stroke-width:0.5" />
+			<text
+   x="26.059999"
+   y="606.32001"
+   class="st2"
+   v:langID="4105"
+   id="text69-2"
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
+   v:horizAlign="2" /><v:tabList />Sw1</text>		</g><g
    id="shape230-179"
    v:mID="230"
    v:groupContext="shape"
-   transform="translate(640.74203,-418.17391)">
+   transform="matrix(0.625,0,0,0.625,381.78565,-182.73198)">
 			<title
    id="title69-2">Sheet.230</title>
 			<desc
@@ -7514,12 +7484,11 @@
    class="st2"
    v:langID="4105"
    id="text70"
-   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />nc</text>		</g>
-		<g
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />nc</text>		</g><g
    id="shape231-182"
    v:mID="231"
    v:groupContext="shape"
-   transform="translate(536.5,-391.5)">
+   transform="matrix(0.625,0,0,0.625,316.63438,-166.06078)">
 			<title
    id="title70-3">Sheet.231</title>
 			<desc
@@ -7545,12 +7514,11 @@
    class="st5"
    v:langID="4105"
    id="text71"
-   style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Exposed pads on bottom</text>		</g>
-		<g
+   style="font-size:5.9999px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Exposed pads on bottom</text>		</g><g
    id="shape232-185"
    v:mID="232"
    v:groupContext="shape"
-   transform="translate(640.74203,-455.29891)">
+   transform="matrix(0.625,0,0,0.625,381.78565,-205.9351)">
 			<title
    id="title71-2">Sheet.232</title>
 			<desc
@@ -7576,12 +7544,11 @@
    class="st2"
    v:langID="4105"
    id="text72"
-   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Spi_ss</text>		</g>
-		<g
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Spi_ss</text>		</g><g
    id="shape233-188"
    v:mID="233"
    v:groupContext="shape"
-   transform="translate(640.74203,-472.31491)">
+   transform="matrix(0.625,0,0,0.625,381.78565,-216.5701)">
 			<title
    id="title72-1">Sheet.233</title>
 			<desc
@@ -7607,12 +7574,11 @@
    class="st2"
    v:langID="4105"
    id="text73"
-   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Spi_si</text>		</g>
-		<g
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Spi_si</text>		</g><g
    id="shape234-191"
    v:mID="234"
    v:groupContext="shape"
-   transform="rotate(90,568.54956,613.04065)">
+   transform="matrix(0,0.625,-0.625,0,719.81576,106.43365)">
 			<title
    id="title73-2">Sheet.234</title>
 			<desc
@@ -7639,12 +7605,11 @@
    v:langID="4105"
    id="text74"
    style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />3.3V</text>		</g>
-		<g
+   v:horizAlign="2" /><v:tabList />3.3V</text>		</g><g
    id="shape235-194"
    v:mID="235"
    v:groupContext="shape"
-   transform="rotate(90,564.74491,598.10561)">
+   transform="matrix(0,0.625,-0.625,0,708.10346,99.477153)">
 			<title
    id="title74-8">Sheet.235</title>
 			<desc
@@ -7671,12 +7636,11 @@
    v:langID="4105"
    id="text75-8"
    style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph
-   v:horizAlign="2" /><v:tabList />1.1V</text>		</g>
-		<g
+   v:horizAlign="2" /><v:tabList />1.1V</text>		</g><g
    id="shape236-197"
    v:mID="236"
    v:groupContext="shape"
-   transform="rotate(90,468.14851,714.81271)">
+   transform="matrix(0,0.625,-0.625,0,720.67264,232.79184)">
 			<title
    id="title75-8">Sheet.236</title>
 			<desc
@@ -7702,12 +7666,11 @@
    class="st2"
    v:langID="4105"
    id="text76-0"
-   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />nc</text>		</g>
-		<g
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />nc</text>		</g><g
    id="shape237-200"
    v:mID="237"
    v:groupContext="shape"
-   transform="rotate(90,486.70851,733.37271)">
+   transform="matrix(0,0.625,-0.625,0,743.87264,232.79184)">
 			<title
    id="title76-0">Sheet.237</title>
 			<desc
@@ -7733,51 +7696,7 @@
    class="st2"
    v:langID="4105"
    id="text77-9"
-   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Gnd</text>		</g>
-	</g><text
-   xml:space="preserve"
-   transform="scale(0.75000001)"
-   id="text21"
-   style="font-size:16px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect86);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
-   xml:space="preserve"
-   transform="scale(0.75000001)"
-   id="text90"
-   style="font-size:16px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect90);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
-   xml:space="preserve"
-   transform="scale(0.75000001)"
-   id="text91"
-   style="font-size:16px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect91);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
-   xml:space="preserve"
-   transform="scale(0.75000001)"
-   id="text92"
-   style="font-size:16px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Normal';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect92);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
-   xml:space="preserve"
-   transform="scale(0.75000001)"
-   id="text93"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect93);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
-   xml:space="preserve"
-   transform="scale(0.75000001)"
-   id="text94"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect94);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
-   xml:space="preserve"
-   transform="scale(0.75000001)"
-   id="text95"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect95);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
-   xml:space="preserve"
-   transform="scale(0.75000001)"
-   id="text96"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect96);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
-   xml:space="preserve"
-   transform="scale(0.75000001)"
-   id="text97"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect97);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><text
-   xml:space="preserve"
-   transform="scale(0.75000001)"
-   id="text98"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect98);display:inline;fill:none;fill-rule:evenodd;stroke-width:1.33417" /><path
-   style="fill:none;stroke:#4472c4;stroke-width:0.0555118px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   d="m 76.738862,187.8068 3.2752,-7.21654 3.83032,6.99449 -7.10552,0.22205"
-   id="path5675" /><g
+   style="font-size:12.0001px;font-family:Calibri;fill:#000000"><v:paragraph /><v:tabList />Gnd</text>		</g><g
    id="g8136"
    transform="matrix(0.45,0,0,0.45,103.02999,86.383652)"><text
      xml:space="preserve"
@@ -8712,8 +8631,4 @@
      clip-path="url(#clipEmfPath1-0)"
      d="m 92.96378,1.6283465 h 9.54803"
      id="path7599"
-     transform="matrix(0.75000001,0,0,0.75000001,-191.6218,67.369724)" /></g><text
-   xml:space="preserve"
-   transform="scale(0.75000001)"
-   id="text30"
-   style="fill:none;text-orientation:auto;fill-rule:evenodd;stroke-width:1.33417323;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-size:16px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect32)" /></svg>
+     transform="matrix(0.75000001,0,0,0.75000001,-191.6218,67.369724)" /></g></svg>
