@@ -35,4 +35,4 @@ A mythical fabless semiconductor company support page. Organized as chip device 
 [(mailer)](ldt_packing%20card.svg)
 [(repo)](https://github.com/XyzzySemiconductor/XS-LDT-01)
 
-#### BDC - Barometric Deployment Controller - Model rocket dual deployment control chip (coming soon)
+#### BDT - Barometric Deployment Timer - Model rocket dual deployment chip (idea)
