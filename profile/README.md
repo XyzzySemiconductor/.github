@@ -34,5 +34,6 @@ A mythical fabless semiconductor company support page. Organized as chip device 
 - 02 - Forge, 3x3 STQFN (released, -40c/85c)
 [(mailer)](ldt_packing%20card.svg)
 [(repo)](https://github.com/XyzzySemiconductor/XS-LDT-01)
+- KIT5 - Kit for 5x boards (LDT + 6 top side parts + bot PCBA)
 
 #### BDT - Barometric Deployment Timer - Model rocket dual deployment chip (idea)
