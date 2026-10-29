@@ -35,5 +35,6 @@ A mythical fabless semiconductor company support page. Organized as chip device 
 [(mailer)](ldt_packing%20card.svg)
 [(repo)](https://github.com/XyzzySemiconductor/XS-LDT-01)
 - KIT5 - Kit for 5x boards (LDT + 6 top side parts + bot PCBA)
+[(KIT5)](XS-LDT-KIT5.jpeg)
 
 #### BDT - Barometric Deployment Timer - Model rocket dual deployment chip (idea)
