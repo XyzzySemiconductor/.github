@@ -37,4 +37,9 @@ A mythical fabless semiconductor company support page. Organized as chip device 
 - PB - Kit of 5x: PCBA, Piezo, Led, DipSw, Accel, LDT, Cap, ScrewTerm 
 [(KIT5)](XS-LDT-KIT5.jpeg)
 
+#### EFC - Embedded FPGA Chip - SPI interfaced eFPGA for reconfigurable communication
+- 01 - 130um Tiny Tapeout (ihp27x 8x4 pending) 
+[(datasheet)](https://github.com/ericpearson1313/tt_fpga_io/blob/main/docs/EFC_Datasheet.pdf)
+[(repo)](https://github.com/ericpearson1313/tt_fpga_io)
+
 #### BDT - Barometric Deployment Timer - Model rocket dual deployment chip (idea)
